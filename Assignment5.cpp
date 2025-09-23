@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-class shape{
+class Shape{
 	public:
 		double a, b;
 		void get(){
