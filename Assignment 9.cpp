@@ -2,7 +2,6 @@
 #include <map>
 #include <string>
 using namespace std;
-
 int main()
 {
     typedef map<int, string> mapType;
